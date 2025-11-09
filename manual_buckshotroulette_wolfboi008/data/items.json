@@ -1,0 +1,153 @@
+[
+  {
+    
+		"count":  1,
+    
+		"name": "Adrenaline",
+    
+		"category": [
+      "Items",
+      "Double or Nothing"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Beer",
+    
+		"category": [
+      "Items",
+      "Main Game Items"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Burner Phone",
+    
+		"category": [
+      "Items",
+      "Double or Nothing"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Cigarette Pack",
+    
+		"category": [
+      "Items",
+      "Main Game Items"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Expired Medicine",
+    
+		"category": [
+      "Items",
+      "Double or Nothing"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Hand Saw",
+    
+		"category": [
+      "Items",
+      "Main Game Items"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Handcuffs",
+    
+		"category": [
+      "Items",
+      "Main Game Items"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Inverter",
+    
+		"category": [
+      "Items",
+      "Double or Nothing"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "Magnifying Glass",
+    
+		"category": [
+      "Items",
+      "Main Game Items"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"count":  1,
+    
+		"name": "General Release of Liability",
+    
+		"category": [],
+    
+		"filler": true
+  },
+  {
+    
+		"count": 1,
+    
+		"name": "Shoot Yourself (and pray)",
+    
+		"category": [
+      "Traps"
+    ],
+    
+		"trap": true
+  },
+  {
+    
+		"count": 1,
+    
+		"name": "Shoot Yourself + Hand Saw (and REALLY pray)",
+    
+		"category": [
+      "Traps"
+    ],
+    
+		"trap": true
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "Main Game": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Double or Nothing": {
+    "connects_to": [],
+    "requires": []
+  }
+}

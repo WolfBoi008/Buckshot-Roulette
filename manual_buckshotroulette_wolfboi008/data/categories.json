@@ -1,0 +1,9 @@
+{
+    "Main Game Items": {
+        "hidden": true
+    },
+    "Double or Nothing": {
+        "hidden": true,
+        "yaml_option": ["double_or_nothing"]
+    }
+}

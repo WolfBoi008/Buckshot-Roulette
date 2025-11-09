@@ -1,0 +1,21 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+    "_comment": "Add a _ before an option name to comment it out and it wont be added to the apworld",
+    "core": {
+        "goal":{
+            "_comment": [
+                "Using 'goal' as the name of an option let you override some of the generated goal parameters"
+            ],
+            "display_name": "Goal",
+            "description": "Choose your victory condition.\nMain Game Victory - Beat the 3 rounds against the Dealer in a normal playthrough.\nDouble or Nothing Short - Cash out of Double or Nothing with $100K or more.\nDouble or Nothing Long - Cash out of Double or Nothing with $1M or more.\nItems will logically allow you to complete more rounds in both goal conditions.\nHowever, the rounds can be beaten out of logic with less items...if you're feeling lucky.",
+            "hidden": false
+        },
+        "death_link": {
+            "default": false
+        },
+        "filler_traps": {
+            "_comment": "Using values here let you set a 'recommended' filler_trap percentage or even a default percentage"
+        }
+    }
+
+}

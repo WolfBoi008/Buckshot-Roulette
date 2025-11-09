@@ -1,0 +1,521 @@
+[
+  {
+    
+		"name": "Main Game - Round 1",
+    
+    "region": "Main Game",
+
+		"category": [
+      "Main Game"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Main Game - Round 2",
+    
+    "region": "Main Game",
+
+		"category": [
+      "Main Game"
+    ],
+    
+		"requires": "|@Main Game Items:3|"
+  },
+  {
+    
+		"name": "Main Game - Round 3",
+    
+    "region": "Main Game",
+
+		"category": [
+      "Main Game"
+    ],
+    
+		"requires": "|@Main Game Items:4|"
+  },
+  {
+    
+		"name": "Main Game Victory",
+    
+		"victory": true,
+    
+		"category": [
+      "Victory"
+    ],
+    
+		"requires": "|@Main Game Items:4|"
+  },
+  {
+    
+		"name": "Set 1 - Round 1",
+    
+    "region": "Double or Nothing",
+
+		"category": [
+      "Double or Nothing - Set 1",
+      "Double or Nothing"
+    ],
+    
+		"requires": "|@Items:3|"
+  },
+  {
+    
+		"name": "Set 1 - Round 2",
+    
+    "region": "Double or Nothing",
+
+		"category": [
+      "Double or Nothing - Set 1",
+      "Double or Nothing"
+    ],
+    
+		"requires": "|@Items:3|"
+  },
+  {
+    
+		"name": "Set 1 - Round 3",
+    
+    "region": "Double or Nothing",
+
+		"category": [
+      "Double or Nothing - Set 1",
+      "Double or Nothing"
+    ],
+    
+		"requires": "|@Items:3|"
+  },
+  {
+    
+		"name": "Set 2 - Round 1",
+    
+    "region": "Double or Nothing",
+
+		"category": [
+      "Double or Nothing - Set 2",
+      "Double or Nothing"
+    ],
+    
+		"requires": "|@Items:4|"
+  },
+  {
+    
+		"name": "Set 2 - Round 2",
+
+    "region": "Double or Nothing",
+    
+		"category": [
+      "Double or Nothing - Set 2",
+      "Double or Nothing"
+    ],
+    
+		"requires": "|@Items:4|"
+  },
+  {
+    
+		"name": "Set 2 - Round 3",
+
+    "region": "Double or Nothing",
+    
+		"category": [
+      "Double or Nothing - Set 2",
+      "Double or Nothing"
+    ],
+    
+		"requires": "|@Items:4|"
+  },
+  {
+    
+		"name": "Set 3 - Round 1",
+
+    "region": "Double or Nothing",
+    
+		"category": [
+      "Double or Nothing - Set 3",
+      "Double or Nothing"
+    ],
+    
+		"requires": "|@Items:5|"
+  },
+  {
+    
+		"name": "Set 3 - Round 2",
+
+    "region": "Double or Nothing",
+    
+		"category": [
+      "Double or Nothing - Set 3",
+      "Double or Nothing"
+    ],
+    
+		"requires": "|@Items:5|"
+  },
+  {
+    
+		"name": "Set 3 - Round 3",
+
+    "region": "Double or Nothing",
+    
+		"category": [
+      "Double or Nothing - Set 3",
+      "Double or Nothing"
+    ],
+    
+		"requires": "|@Items:5|"
+  },
+  {
+    
+		"name": "Set 4 - Round 1",
+
+    "region": "Double or Nothing",
+    
+		"category": [
+      "Double or Nothing - Set 4",
+      "Double or Nothing"
+    ],
+    
+		"requires": "|@Items:5|"
+  },
+  {
+    
+		"name": "Set 4 - Round 2",
+
+    "region": "Double or Nothing",
+    
+		"category": [
+      "Double or Nothing - Set 4",
+      "Double or Nothing"
+    ],
+    
+		"requires": "|@Items:5|"
+  },
+  {
+    
+		"name": "Set 4 - Round 3",
+
+    "region": "Double or Nothing",
+    
+		"category": [
+      "Double or Nothing - Set 4",
+      "Double or Nothing"
+    ],
+    
+		"requires": "|@Items:5|"
+  },
+  {
+    
+		"name": "Set 5 - Round 1",
+
+    "region": "Double or Nothing",
+    
+		"category": [
+      "Double or Nothing - Set 5",
+      "Double or Nothing"
+    ],
+    
+		"requires": "|@Items:6|"
+  },
+  {
+    
+		"name": "Set 5 - Round 2",
+
+    "region": "Double or Nothing",
+    
+		"category": [
+      "Double or Nothing - Set 5",
+      "Double or Nothing"
+    ],
+    
+		"requires": "|@Items:6|"
+  },
+  {
+    
+		"name": "Set 5 - Round 3",
+
+    "region": "Double or Nothing",
+    
+		"category": [
+      "Double or Nothing - Set 5",
+      "Double or Nothing"
+    ],
+    
+		"requires": "|@Items:6|"
+  },
+  {
+    
+		"name": "Set 6 - Round 1",
+
+    "region": "Double or Nothing",
+    
+		"category": [
+      "Double or Nothing - Set 6",
+      "Double or Nothing"
+    ],
+    
+		"requires": "|@Items:6|"
+  },
+  {
+    
+		"name": "Set 6 - Round 2",
+
+    "region": "Double or Nothing",
+    
+		"category": [
+      "Double or Nothing - Set 6",
+      "Double or Nothing"
+    ],
+    
+		"requires": "|@Items:6|"
+  },
+  {
+    
+		"name": "Set 6 - Round 3",
+
+    "region": "Double or Nothing",
+    
+		"category": [
+      "Double or Nothing - Set 6",
+      "Double or Nothing"
+    ],
+    
+		"requires": "|@Items:6|"
+  },
+  {
+    
+		"name": "Set 7 - Round 1",
+
+    "region": "Double or Nothing",
+    
+		"category": [
+      "Double or Nothing - Set 7",
+      "Double or Nothing"
+    ],
+    
+		"requires": "|@Items:7|"
+  },
+  {
+    
+		"name": "Set 7 - Round 2",
+
+    "region": "Double or Nothing",
+    
+		"category": [
+      "Double or Nothing - Set 7",
+      "Double or Nothing"
+    ],
+    
+		"requires": "|@Items:7|"
+  },
+  {
+    
+		"name": "Set 7 - Round 3",
+
+    "region": "Double or Nothing",
+    
+		"category": [
+      "Double or Nothing - Set 7",
+      "Double or Nothing"
+    ],
+    
+		"requires": "|@Items:7|"
+  },
+  {
+    
+		"name": "Set 8 - Round 1",
+
+    "region": "Double or Nothing",
+    
+		"category": [
+      "Double or Nothing - Set 8",
+      "Double or Nothing"
+    ],
+    
+		"requires": "|@Items:8|"
+  },
+  {
+    
+		"name": "Set 8 - Round 2",
+
+    "region": "Double or Nothing",
+    
+		"category": [
+      "Double or Nothing - Set 8",
+      "Double or Nothing"
+    ],
+    
+		"requires": "|@Items:8|"
+  },
+  {
+    
+		"name": "Set 8 - Round 3",
+
+    "region": "Double or Nothing",
+    
+		"category": [
+      "Double or Nothing - Set 8",
+      "Double or Nothing"
+    ],
+    
+		"requires": "|@Items:8|"
+  },
+  {
+    "name": "Double or Nothing Short",
+    "region": "Double or Nothing",
+    "victory": true,
+    "category": [
+      "Victory"
+    ],
+    "requires": "|@Items:5|"
+  },
+  {
+    "name": "Double or Nothing Long",
+
+    "region": "Double or Nothing",
+
+    "victory": true,
+
+    "category": [
+      "Victory"
+    ],
+
+    "requires":"|@Items:8|"
+  },
+  {
+    "name": "70K",
+    "region": "Main Game",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|@Main Game Items:4|"
+  },
+  {
+    "name": "Coin Flip",
+    "region": "Main Game",
+    "category": [
+      "Achievements"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Chasing Losses",
+    "region": "Double or Nothing",
+    "category": [
+      "Achievements",
+      "Double or Nothing"
+    ],
+    "requires": []
+  },
+  {
+    "name": "High Rollers",
+    "region": "Double or Nothing",
+    "category": [
+      "Achievements",
+      "Double or Nothing"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bronze Gates",
+    "region": "Main Game",
+    "category": [
+      "Achievements"
+    ],
+    "requires":"|@Main Game Items:3|"
+  },
+  {
+    "name": "Name Taken",
+    "region": "Main Game",
+    "category": [
+      "Achievements"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Nope!",
+    "region": "Double or Nothing",
+    "category": [
+      "Achievements",
+      "Double or Nothing"
+    ],
+    "requires": "|@Items:3|"
+  },
+  {
+    "name": "140K",
+    "region": "Double or Nothing",
+    "category": [
+      "Achievements",
+      "Double or Nothing"
+    ],
+    "requires": "|@Items:4|"
+  },
+  {
+    "name": "Soak It In",
+    "region": "Main Game",
+    "category": [
+      "Achievements"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Why?",
+    "region": "Main Game",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Magnifying Glass|"
+  },
+  {
+    "name": "Digita, Orava and Koni",
+    "region": "Double or Nothing",
+    "category": [
+      "Achievements",
+      "Double or Nothing"
+    ],
+    "requires": "|Cigarette Pack| AND |Beer| AND |Expired Medicine|"
+  },
+  {
+    "name": "Overdose",
+    "region": "Double or Nothing",
+    "category": [
+      "Achievements",
+      "Double or Nothing"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Going Out With Style!",
+    "region": "Main Game",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Hand Saw|"
+  },
+  {
+    "name": "1000K",
+    "region": "Double or Nothing",
+    "category": [
+      "Achievements",
+      "Double or Nothing"
+    ],
+    "requires": "|@Items:8|"
+  },
+  {
+    "name": "Know When To Quit",
+    "region": "Double or Nothing",
+    "category": [
+      "Achievements",
+      "Double or Nothing"
+    ],
+    "requires": "|@Items:8|"
+  },
+  {
+    "name": "Full House",
+    "region": "Double or Nothing",
+    "category": [
+      "Achievements",
+      "Double or Nothing"
+    ],
+    "requires": "|@Items:9|"
+  }
+]
